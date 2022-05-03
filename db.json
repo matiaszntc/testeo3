@@ -1,0 +1,56 @@
+{
+	"post":[
+  {
+	"id": 1,
+	"Tipo": "Vieja culia",
+	"Nombre": "dare ql perklin",
+	"Observacion": "Estamos mal porque la vieja culia me cae mal xd",
+	"Ubicacion": "Se encuentra en robledo cerca a la quintana",
+	"Rasgos": "Tiene el pelo cafe  , ademas tiene una patica mala",
+	"Imagen": "https://www.elpaisdelosjovenes.com/wp-content/uploads/2015/05/03_02.jpg"
+
+
+},
+{
+	"id": 4,
+	"Tipo": "Gato",
+	"Nombre": "Icaro",
+	"Observacion": "Es un gatico cachorro que esta en la calle",
+	"Ubicacion": "Esta en belen  por los lados de  la udem",
+	"Rasgos": "Es pequeño  y el pelo lo tiene negro",
+	"Imagen": "http://static.consumer.es/www/imgs/2013/07/adoptar-gatos-cachorros-felinos-animales-mascotas-adopcion-acogida-art.jpg"
+
+}, 
+{
+	"id": 3,
+	"Tipo": "Caballo",
+	"Nombre": "Oreo",
+	"Observacion": "Esta denutrido",
+	"Ubicacion": "en un lote por la autipista medellin bogota",
+	"Rasgos": "Es blanco y  esta  muy delgado",
+	"Imagen": "https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/social_share_large/public/01_%C2%BFQu%C3%A9-puedo-hacer-si-mi-gato-est%C3%A1-triste-.png?itok=w67Nhubc"
+}, 
+{
+	"id": 2,
+	"Tipo": "Perro",
+	"Nombre": "Sacha",
+	"Observacion": "Tiene un ojo  herido",
+	"Ubicacion": "Esta en aranjuez por el parque",
+	"Rasgos": "Es un perro criollo y tiene un ojo spr herido",
+	"Imagen": "http://www.cuidadosdemascotas.com/wp-content/uploads/2015/06/perro_herido_cuidados_mascotas-300x225.jpg"
+},
+  {
+	"id": 5,
+	"Tipo": "Gato",
+	"Nombre": "Nica",
+	"Observacion": "Es una gatica que acabo de dar a luz",
+	"Ubicacion": "Parque del poblado",
+	"Rasgos": "Es una gata blanca y tiene 6 gaticos cachorros",
+	"Imagen": "https://lh4.googleusercontent.com/-PKoAqrneSVg/TyPbkz9VqDI/AAAAAAAAAZg/QycSgXbOPUM/s800/Familia%2520de%2520gatos%2520Korat%2520%2528Gato%2520de%2520la%2520suerte%252C%2520Gat%2520Korat%252C%2520Si-sawaat%252C%2520Gat%2520de%2520la%2520Sort%252C%2520Korat-Katze%252C%2520Gatto%2520Korat%2529.jpg"
+
+
+}
+
+]
+
+}
